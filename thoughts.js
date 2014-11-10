@@ -1,0 +1,50 @@
+// Include me before photomind.js
+
+var pictures = [
+    "IMG_0008.JPG",
+    "IMG_0024.JPG",
+    "IMG_0139.JPG",
+    "IMG_0166.JPG",
+    "IMG_0267.JPG",
+    "IMG_0370.JPG",
+    "IMG_1139.JPG",
+    "050722_Hanover_056.jpg",
+    "IMG_2361.JPG",
+    "IMG_2420.JPG",
+    "IMG_2434.JPG",
+    "IMG_2477.JPG",
+    "IMG_2494.JPG",
+    "IMG_2628.JPG",
+    "IMG_2669.JPG",
+    "IMG_2685.JPG",
+    "IMG_2775.JPG",
+    "IMG_2787.JPG",
+    "IMG_2835.JPG",
+    "IMG_2863.JPG",
+    "IMG_2868.JPG",
+    "IMG_2869.JPG",
+    "IMG_2872.JPG",
+    "IMG_2874.JPG",
+    "IMG_2907.JPG",
+    "IMG_2911.JPG"
+];
+
+var thoughts = [
+    "On ne voit bien qu'avec le coeur; l'essentiel est invisible pour les yeux. Antoine de Saint-Exup&eacute;ry",
+    "Good judgement comes from experience; experience comes from bad judgement.",
+    "There is nothing worse than thinking of your own emotional life as twaddle. S&oslash;ren Kierkegaard",
+    "Luminous beings are we, not this crude matter. Yoda",
+    "You are free to choose, that is, to invent. Jean-Paul Sartre",
+    "Because things are the way they are, things will not stay the way they are. Bertolt Brecht",
+    "It's those little things that confuse me most... There's never nothing, always something more. Andr&eacute; Charles Th&eacute;riault",
+    "The poet only asks to get his head into the heavens. It is the logician who seeks to get the heavens into his head. And it is his head that splits. G. K. Chesterton",
+    "There's a crack in everything. That's how the light gets in. Leonard Cohen",
+    "We cannot have a viable democracy made up of experts, zealots, politicians, and spectators. Liz Coleman",
+    "Your own problems are too small a theatre for your intelligence. Robert Thurman",
+    "Those who do not want to imitate anything produce nothing. Salvador Dali",
+    "Do not be bewildered by the surfaces; in the depths all becomes law. Rainer Maria Rilke",
+    "Literature does not represent, it presents! Octavio Paz",
+    "Sometimes, if you stand on the bottom rail of a bridge and lean over to watch the river slipping slowly away beneath you, you suddenly know everything there is to be known. Winnie the Pooh",
+    "It is not birds that speak, but men learn silence. Kathleen Raine",
+    "There are no technical answers to ethical questions. Theodore Roszak"
+];
